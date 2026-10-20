@@ -3,3 +3,8 @@ node_modules/
 .expo/
 .env*
 public/uploads/*
+
+# Local files and generated listing data
+.DS_Store
+/digigarahe-buyer/public/uploads/
+/digigarahe-buyer/public/products.json
